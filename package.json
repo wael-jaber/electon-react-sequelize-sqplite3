@@ -10,7 +10,6 @@
     "make": "electron-forge make",
     "publish": "electron-forge publish",
     "lint": "eslint --ext .ts,.tsx .",
-    "jest-test": "ts-jest ./src",
     "test": "jest",
     "pree2e": "npm run package",
     "e2e": "playwright test"
