@@ -1,11 +1,11 @@
-# Electron with react and sqlite3
+# Electron with react , sequelize and sqlite
 
-This project is created as a starting point for and Eletron application with react integration and an embedded database.
+This project is created as a starting point for and Electron application with react integration and an embedded database (using electron forge).
 
 # Requirements
 
 - **Node version** : 16.14.2
-- **Yarn versio** : 1.22.18
+- **Yarn version** : 1.22.18
 
 # Setup
 

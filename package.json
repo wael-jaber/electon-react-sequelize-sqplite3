@@ -93,6 +93,8 @@
     "electron-squirrel-startup": "^1.0.0",
     "jest": "27.1.0",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "sequelize": "^6.19.0",
+    "sqlite3": "^5.0.6"
   }
 }
